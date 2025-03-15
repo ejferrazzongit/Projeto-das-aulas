@@ -131,4 +131,8 @@ body{
     .apresentacao__conteudo{
         width: 100%;
     }
+
+    .apresentacao__imagem {
+        width: auto;
+    }
 }

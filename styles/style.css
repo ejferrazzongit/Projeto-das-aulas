@@ -129,6 +129,6 @@ body{
     }
 
     .apresentacao__conteudo{
-        width: auto;
+        width: 100%;
     }
 }
